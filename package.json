@@ -1,0 +1,13 @@
+{
+  "name": "fd-knockout.wrap",
+  "title": "Knockout wrap",
+  "version": "0.1.1",
+  "description": "Knockout wrapper",
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FuseDesk/knockout.wrap"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/FuseDesk/knockout.wrap.git"
+}
